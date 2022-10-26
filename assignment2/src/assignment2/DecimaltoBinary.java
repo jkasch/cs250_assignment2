@@ -36,7 +36,7 @@ import java.util.Scanner;
 				// printing results in reverse
 				for (int i = y - 1; i >= 0; i--)
 				{
-					System.out.print(Array[i]);
+					System.out.print(String.valueOf(Array[i]));
 				}
 			}
 	}
